@@ -1,0 +1,69 @@
+.dubaothoitiet2 {
+}
+
+body {
+  background-color: azure;
+  background-image: url(https://image.bnews.vn/MediaUpload/Org/2021/06/17/12ddafb0-5fad-4c5c-b94c-7363065fbb85.jpg);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.icon1 {
+  height: 12px;
+}
+
+.centered-div {
+  width: 600px;
+  height: 500px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #333;
+  border: 5px solid #333;
+  background-image: url();
+}
+
+input {
+  border-bottom: 5px solid red;
+  width: 300px; 
+  height: 40px;
+  font-size: 18px; 
+  padding: 10px; 
+  border: 2px solid #ccc;
+  border-radius: 5px; 
+  box-sizing: border-box;
+  font-family: 'Pixel',
+
+}
+.smoothbutton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.smoothbutton:hover {
+  background-color: #0056b3;
+  transform: scale(1.1); 
+}
+
+.smoothbutton:active {
+  transform: scale(0.9); 
+} */
+
+/* button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
